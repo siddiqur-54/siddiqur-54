@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm A. B. M. Siddiqur Rahman</h1>
-- 📫 How to reach me: siddiqur.cse.ruet@gmail.com 
+<p>I am studying Computer SCience & Engineering at Rajshahi University of Engineering & Technology (RUET)</p>
+- 📫 How to reach me: <a href="mailto:siddiqur.cse.ruet@example.com">siddiqur.cse.ruet@gmail.com</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
