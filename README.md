@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm A. B. M. Siddiqur Rahman</h1>
-<p>I am studying Computer Science & Engineering at Rajshahi University of Engineering & Technology (RUET)</p>
+<p>I have completed graduation in Computer Science & Engineering at Rajshahi University of Engineering & Technology (RUET)</p>
 - 📫 How to reach me: <a href="mailto:siddiqur.cse.ruet@gmail.com">siddiqur.cse.ruet@gmail.com</a> 
 
 <h3 align="left">Connect with me:</h3>
